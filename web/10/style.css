@@ -1,0 +1,17 @@
+body {
+	background-color: #FFFFCC;
+}
+
+#outer_div {
+	padding: 10% 10%;
+}
+
+#inner_div {
+	width: fit-content;
+	margin: 0 auto;
+}
+
+.inner_el {
+	display: block;
+	margin: 10px auto;
+}
